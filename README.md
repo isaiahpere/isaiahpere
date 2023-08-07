@@ -1,6 +1,6 @@
 <h1 align="center">Howdy 👋, I'm Isaiah Pereira</h1>
 <h3 align="center">Frontend developer who loves to code and learn new tech! 🧑🏽‍💻</h3>
-<img width="400" align="right" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=2000 />" alt="profile image" />
+<img width="400" align="right" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=2000" alt="profile image" />
 
 - 🔭 I’m currently working on **.NET project managed by Azure**
 
