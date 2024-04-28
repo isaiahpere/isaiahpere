@@ -1,5 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQEhEZS13uFGIA/profile-displaybackgroundimage-shrink_350_1400/0/1680315482898?e=1705536000&v=beta&t=VB7_oZcn1NQVbQvgF5GKotk_u1zjsEGZRfL9oNFh3Bo)](https://www.linkedin.com/in/isaiahpereira/overlay/background-image/)
-
+[![MasterHead]([https://media.licdn.com/dms/image/D5616AQEhEZS13uFGIA/profile-displaybackgroundimage-shrink_350_1400/0/1680315482898?e=1705536000&v=beta&t=VB7_oZcn1NQVbQvgF5GKotk_u1zjsEGZRfL9oNFh3Bo](https://media.licdn.com/dms/image/D5616AQEhEZS13uFGIA/profile-displaybackgroundimage-shrink_350_1400/0/1680315482898
+https://media.licdn.com/dms/image/D5616AQEhEZS13uFGIA/profile-displaybackgroundimage-shrink_350_1400/0/1680315482898?e=1720051200&v=beta&t=UMpnkUzYTRdcAkPOP6WhqMhOLjTjarkghGTOEYzNZus
 <h1 align="center">Howdy 👋, I'm Isaiah</h1>
 <h3 align="center">Frontend developer who loves to drink coffee & code! 🧑🏽‍💻</h3>
 <img width="400" align="right" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=2000" alt="profile image" />
