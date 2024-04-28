@@ -1,4 +1,4 @@
-[![MasterHead]([https://media.licdn.com/dms/image/D5616AQEhEZS13uFGIA/profile-displaybackgroundimage-shrink_350_1400/0/1680315482898?e=1705536000&v=beta&t=VB7_oZcn1NQVbQvgF5GKotk_u1zjsEGZRfL9oNFh3Bo](https://media.licdn.com/dms/image/D5616AQEhEZS13uFGIA/profile-displaybackgroundimage-shrink_350_1400/0/1680315482898
+![Header](./header-img.jpeg)
 
 <h1 align="center">Howdy 👋, I'm Isaiah</h1>
 <h3 align="center">Frontend developer who loves to drink coffee & code! 🧑🏽‍💻</h3>
