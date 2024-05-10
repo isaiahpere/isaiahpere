@@ -1,22 +1,11 @@
 ![Header](./header-img.jpeg)
 
 <h1 align="center">Howdy 👋, I'm Isaiah</h1>
-<h3 align="center">Frontend developer who loves to drink coffee & code! 🧑🏽‍💻</h3>
+<h3 align="center"> I'm a curious developer 🧑🏽‍💻 who enjoys a strong cup of coffee and building things! In my spare time, I love to hang out with my family, and when possible, I take my little Cessna for a flight.👨‍✈️🛬</h3> 
+
 <img width="400" align="right" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=2000" alt="profile image" />
 
-- 🔭 I’m currently working on **.NET project for a finance company**
-
-- 🌱 I’m currently learning **React Native & JAVA**
-
-- 👨‍💻 All of my projects are available at [https://isaiahpereira.me/](https://isaiahpereira.me/)
-
-- 💬 Ask me about **Anything you would like to discuss 🙂**
-
-- 📫 How to reach me **isaiahpereira.nv@gmail.com**
-
-- 📄 Know about my experiences [https://isaiahpereira.me/resume](https://isaiahpereira.me/resume)
-
-- ⚡ Fun fact **I code faster when I drink mushroom coffee ☕️**
+- 💬 I love to chat! don't be shy and ask away! 🙂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
