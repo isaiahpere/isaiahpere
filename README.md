@@ -1,7 +1,7 @@
 ![Header](./header-img.jpeg)
 
 <h1 align="center">Howdy 👋, I'm Isaiah</h1>
-<h3 align="center"> I'm a curious developer 🧑🏽‍💻 who enjoys a strong cup of coffee and building things! In my spare time, I love to hang out with my family, and when possible, I take my little Cessna for a flight.👨‍✈️</h3> 
+<h3 align="center"> I'm a curious developer 🧑🏽‍💻 who enjoys a strong cup of coffee and building things! In my spare time, I love to hang out with my family, and when possible, I take my little Cessna for a flight. 👨‍✈️</h3> 
 
 <h5>💬 I'm always up for a chat! Feel free to ask anything – 🙂</h5>
 
