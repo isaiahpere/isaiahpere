@@ -3,7 +3,7 @@
 <h1 align="center">Howdy 👋, I'm Isaiah</h1>
 <h3 align="center"> I'm a curious developer 🧑🏽‍💻 who enjoys a strong cup of coffee and building things! In my spare time, I love to hang out with my family, and when possible, I take my little Cessna for a flight.👨‍✈️🛬</h3> 
 
-- 💬 I love to chat! don't be shy and ask away! 🙂
+<h5>💬 I love to chat! don't be shy and ask away! 🙂</h5>
 
 <img width="400" align="right" src="https://img.freepik.com/free-vector/cute-man-working-laptop-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3869.jpg?w=2000" alt="profile image" />
 
